@@ -1,0 +1,19 @@
+*{ padding: 0;
+    background: skyblue;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    
+}
+.calculator{
+    box-sizing: border-box;
+    background-color: #808080;
+    
+}
+.form{
+    box-shadow: #808080;
+    color: white;
+}
